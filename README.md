@@ -2,4 +2,4 @@ OpenSCAD source for a [vertical axis wind turbine](https://en.wikipedia.org/wiki
 
 Looks like:
 
-[!preview render](preview.png)
+![preview render](preview.png)
